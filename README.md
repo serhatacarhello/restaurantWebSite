@@ -35,6 +35,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Project image
 
-![websiteGif]('src/assets/restaurantwebsite.gif')
+![projectImage](src/assets/restaurantwebsite.gif)
+
 
 
