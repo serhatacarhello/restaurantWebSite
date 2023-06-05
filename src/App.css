@@ -221,6 +221,7 @@ img {
 }
 
 .menuList {
+  max-width: 800px;
   display: flex;
   justify-content: center;
   align-items: center;
