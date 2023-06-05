@@ -24,7 +24,7 @@ Burger 16 is a web application for a restaurant that specializes in delicious ha
 - To learn more about the restaurant, click on the "About" link.
 - To contact the restaurant, click on the "Contact" link and fill out the form.
 - To place an order, click on the "Order Now" button on the home page.
-- 
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/your-repository/issues). If you'd like to contribute code, you can fork the repository and create a pull request.
